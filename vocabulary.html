@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>超纲词汇学习 · 走遍美国</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="vocabulary.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="site-title" href="index.html"><strong>走遍美国</strong><span>课文阅读与词汇学习</span></a>
+    <nav class="book-tabs" aria-label="网站导航">
+      <a href="english.html">英文</a>
+      <a href="chinese.html">中文</a>
+      <a href="vocabulary.html" aria-current="page">词汇</a>
+    </nav>
+    <button class="icon-btn" id="themeToggle" type="button" title="切换深色模式" aria-label="切换深色模式">◐</button>
+  </header>
+  <main class="vocab-page">
+    <section class="vocab-hero">
+      <span class="eyebrow">FAMILY ALBUM, U.S.A.</span>
+      <h1>超纲词汇学习</h1>
+      <p>两份词表，两个学习方向。可搜索、按类别筛选、听发音，并标记已掌握的词。学习进度只保存在当前浏览器。</p>
+      <a class="download-link" href="%E8%B5%B0%E9%81%8D%E7%BE%8E%E5%9B%BD_%E8%AF%8D%E6%B1%87%E5%AD%A6%E4%B9%A0%E5%90%88%E5%B9%B6%E8%AF%8D%E8%A1%A8.txt" download>下载合并词表 TXT ↓</a>
+    </section>
+    <div class="vocab-tabs" role="tablist" aria-label="词表方向">
+      <button type="button" role="tab" id="tab-extra" aria-controls="panel-list" aria-selected="true" data-list="extra">剧中超纲词 <span>530</span></button>
+      <button type="button" role="tab" id="tab-missing" aria-controls="panel-list" aria-selected="false" data-list="missing">牛津3000未覆盖 <span>1572</span></button>
+    </div>
+    <section class="vocab-main" id="panel-list" role="tabpanel" aria-labelledby="tab-extra">
+      <div class="vocab-intro" id="listIntro">剧中出现，但不在牛津3000词表内：514 个实词词形、16 个口语语气词。数字表示剧中出现次数。</div>
+      <div class="vocab-controls">
+        <label class="search-label" for="wordSearch">查找单词</label>
+        <input id="wordSearch" type="search" placeholder="输入英文单词…" autocomplete="off">
+        <label class="filter-label" for="wordFilter">类别</label>
+        <select id="wordFilter"><option value="all">全部类别</option></select>
+        <label class="hide-known"><input id="hideKnown" type="checkbox"> 只看未掌握</label>
+      </div>
+      <div class="study-bar">
+        <p id="resultCount" aria-live="polite"></p>
+        <p id="learnedCount"></p>
+        <button type="button" id="randomWord">随机学一个 ↗</button>
+      </div>
+      <div id="studyCard" class="study-card" hidden>
+        <div><span class="eyebrow">随机练习</span><strong id="studyWord"></strong><small id="studyMeta"></small></div>
+        <div class="study-actions"><button type="button" id="studySpeak" aria-label="朗读随机单词">▶ 发音</button><button type="button" id="studyKnown">标记已掌握</button><button type="button" id="studyNext">下一个</button></div>
+      </div>
+      <ul class="word-list" id="wordList" aria-label="词汇列表"></ul>
+      <div class="load-more-wrap"><button type="button" id="loadMore" hidden>显示更多</button></div>
+    </section>
+    <p class="vocab-note">原始文件只提供英文单词、分类及部分词频，不含中文释义；此页不另行推测词义。浏览器发音取决于设备支持情况。</p>
+  </main>
+  <script src="vocabulary-data.js"></script>
+  <script src="vocabulary.js"></script>
+</body>
+</html>
+
