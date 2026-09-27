@@ -1,0 +1,2149 @@
+走遍美国 · 牛津3000词汇学习合并词表
+
+第一部分：剧中出现、牛津3000之外的词汇
+来源：走遍美国_牛津3000超纲词表.txt
+
+# 《走遍美国》（全26集）牛津3000 之外的超纲词表
+# 已剔除：剧中人名/地名/机构名、OCR错拼噪声
+# 匹配口径：官方牛津3000词表，含词形还原（复数/时态/比较级等）
+# 共 514 个超纲实词词形（合计 1600 词次）+ 16 个口语语气词
+# 格式：单词<TAB>出现次数，按出现频率降序
+
+========================================
+【一、超纲实词】
+========================================
+grandpa	385
+mr	103
+mrs	50
+mom	46
+terrific	20
+daddy	20
+math	15
+thanksgiving	15
+honey	14
+pie	12
+cinnamon	12
+inn	12
+dr	11
+aerobics	11
+innkeeper	11
+grandma	10
+attendant	10
+cute	9
+touchdown	8
+receptionist	8
+dessert	7
+favorite	7
+tonsils	7
+charades	7
+ferry	6
+graduation	6
+anymore	6
+exhausted	6
+honeymoon	6
+craft	6
+anytime	5
+vanilla	5
+theater	5
+cola	5
+grandson	5
+frankly	5
+crab	5
+boutique	5
+collateral	5
+guarantor	5
+teddy	5
+crib	5
+bow	5
+tuxedo	5
+starving	4
+trunk	4
+railroad	4
+grandchildren	4
+fabulous	4
+skip	4
+ward	4
+hail	4
+lemonade	4
+mortgage	4
+aquarium	4
+congratulations	4
+envelopes	4
+clip	4
+english	3
+american	3
+scoop	3
+pediatrician	3
+vendor	3
+ginger	3
+ale	3
+petal	3
+vice	3
+someday	3
+fellas	3
+twist	3
+pony	3
+bacon	3
+thrilled	3
+thankful	3
+dinnertime	3
+besides	3
+parade	3
+french	3
+clown	3
+scoops	3
+meantime	3
+journalism	3
+hamburger	3
+spaceship	3
+grandchild	3
+adorable	3
+outfit	3
+clerk	3
+reunion	3
+centers	3
+voters	3
+slogan	3
+fliers	3
+veil	3
+pond	3
+cradle	3
+refurbishing	3
+mustard	3
+autograph	3
+mommy	2
+subway	2
+uptown	2
+color	2
+pasta	2
+ferryboat	2
+crispy	2
+stomachache	2
+darling	2
+conductor	2
+granddaughter	2
+steaks	2
+steak	2
+refrigerator	2
+lodge	2
+blanket	2
+favor	2
+turkey	2
+parades	2
+dada	2
+pilgrims	2
+pumpkin	2
+walkman	2
+thoughtful	2
+cheeseburger	2
+barking	2
+spaniel	2
+operator	2
+collar	2
+pal	2
+sore	2
+flavors	2
+strawberry	2
+popo	2
+admission	2
+applicants	2
+indecision	2
+footsteps	2
+sketches	2
+fountain	2
+crabs	2
+alike	2
+avenue	2
+spanish	2
+doll	2
+foreman	2
+aboard	2
+nephew	2
+ounces	2
+sweetheart	2
+bassinet	2
+tlc	2
+stewarts	2
+metropolitan	2
+nicole	2
+tuna	2
+creep	2
+earlier	2
+someplace	2
+quilt	2
+rfd	2
+shortcut	2
+barn	2
+unbelievable	2
+honor	2
+taxpayers	2
+appliance	2
+wristband	2
+lawful	2
+wedded	2
+patio	2
+robert	2
+frost	2
+snowy	2
+happier	2
+fulltime	2
+niece	2
+editorial	2
+repainting	2
+interior	2
+neighborhood	2
+drugstore	2
+ladders	2
+lifeguard	2
+ketchup	2
+teething	2
+flashlight	2
+cassette	2
+soothing	2
+remarkable	2
+steelworkers	1
+bankers	1
+vendors	1
+ambulance	1
+greek	1
+hispanic	1
+canvas	1
+teaspoon	1
+chabis	1
+chablis	1
+noodles	1
+cpa	1
+accountant	1
+neighbor	1
+bonsai	1
+tummy	1
+ache	1
+wallet	1
+hangers	1
+closet	1
+aisle	1
+fortieth	1
+congratulation	1
+aerospace	1
+corporation	1
+purse	1
+independence	1
+unpack	1
+nonstop	1
+snap	1
+sweat	1
+sunrises	1
+twists	1
+tango	1
+lettuce	1
+cucumbers	1
+broccoli	1
+groceries	1
+hop	1
+scissors	1
+barely	1
+jogging	1
+cloudy	1
+sunny	1
+lunchtime	1
+fever	1
+ruined	1
+ruin	1
+spoil	1
+walnuts	1
+cabinet	1
+dill	1
+garlic	1
+grocery	1
+slam	1
+grouchy	1
+protein	1
+superman	1
+balloon	1
+clowns	1
+settlers	1
+harvest	1
+indians	1
+trun	1
+cheer	1
+paw	1
+prevention	1
+cruelty	1
+semester	1
+affection	1
+poochie	1
+tag	1
+id	1
+adoption	1
+cuddle	1
+lovers	1
+scratched	1
+residence	1
+tonsillectomies	1
+infected	1
+reassurance	1
+reschedule	1
+fooling	1
+pajamas	1
+robe	1
+dwarfs	1
+victors	1
+valiant	1
+conquering	1
+cheering	1
+classmate	1
+noon	1
+transcript	1
+editorials	1
+uncertain	1
+admissions	1
+newspaperman	1
+tuition	1
+dolls	1
+twelfth	1
+japanese	1
+exit	1
+celery	1
+carriage	1
+apartmnt	1
+headpiece	1
+lace	1
+gorgeous	1
+blond	1
+ranch	1
+basement	1
+acre	1
+tiles	1
+bargain	1
+likewise	1
+occupation	1
+freelance	1
+percent	1
+salesmen	1
+restless	1
+lamb	1
+chops	1
+mashed	1
+tossed	1
+asset	1
+evolved	1
+brainpower	1
+contractor	1
+inspiration	1
+redesigning	1
+joyous	1
+fond	1
+darlings	1
+motto	1
+washcloth	1
+cuddly	1
+mature	1
+diaper	1
+diapering	1
+suburbs	1
+suburban	1
+conveniences	1
+squeeze	1
+pumpernickel	1
+shark	1
+scout	1
+manufactures	1
+shuffle	1
+deck	1
+counterclockwise	1
+troop	1
+hint	1
+tempting	1
+balcony	1
+nearby	1
+pardon	1
+suite	1
+patchwork	1
+quilts	1
+patches	1
+liberty	1
+compliments	1
+hotcakes	1
+maple	1
+syrup	1
+scrambled	1
+cloves	1
+homemade	1
+buttermilk	1
+mailman	1
+waers	1
+roommate	1
+quarterback	1
+hood	1
+whereabouts	1
+bam	1
+cleanup	1
+thee	1
+yonder	1
+beard	1
+rascal	1
+fiftieth	1
+goodness	1
+sake	1
+toast	1
+opera	1
+ballet	1
+philharmonic	1
+alley	1
+landmarks	1
+photographic	1
+mimes	1
+sensational	1
+schoolrooms	1
+influential	1
+businessmen	1
+corporations	1
+publicity	1
+polls	1
+licking	1
+lick	1
+lockers	1
+fixtures	1
+hallways	1
+inherited	1
+housewife	1
+rival	1
+backyard	1
+appoint	1
+rental	1
+litters	1
+lapel	1
+antique	1
+pearls	1
+jitters	1
+beloved	1
+matrimony	1
+vested	1
+diner	1
+paperwork	1
+cookie	1
+checkbook	1
+accomplish	1
+queer	1
+farmhouse	1
+harness	1
+downy	1
+flake	1
+aloud	1
+alterations	1
+blouse	1
+wintertime	1
+garment	1
+seventh	1
+dilemma	1
+sacrifices	1
+lifetime	1
+presidency	1
+dady	1
+considerate	1
+bough	1
+sketching	1
+wrestling	1
+checkup	1
+injection	1
+mama	1
+easier	1
+versus	1
+eleln	1
+fittings	1
+chestnut	1
+vacant	1
+postponed	1
+indefinitely	1
+elm	1
+primarily	1
+ping	1
+pong	1
+soda	1
+doorbell	1
+hardware	1
+tutoring	1
+sleeves	1
+supervise	1
+backbreaking	1
+danish	1
+pastry	1
+structural	1
+furnish	1
+intergenerational	1
+inspection	1
+scrub	1
+repaint	1
+furnishings	1
+stamina	1
+unity	1
+assembly	1
+peeled	1
+farewell	1
+rays	1
+fractures	1
+wristwatch	1
+flashy	1
+rob	1
+hammer	1
+horn	1
+unite	1
+amused	1
+engraved	1
+patties	1
+lap	1
+openers	1
+relish	1
+utensils	1
+campfire	1
+audio	1
+benches	1
+tablecloth	1
+picnic	1
+refreshing	1
+assure	1
+overtired	1
+enlargement	1
+preview	1
+refreshments	1
+pubic	1
+syndicated	1
+reviewers	1
+intern	1
+ansel	1
+adams	1
+compliment	1
+favorably	1
+autographed	1
+breakdown	1
+cuff	1
+stalling	1
+charmed	1
+punch	1
+newpapers	1
+entitled	1
+overwhelmed	1
+pulitzer	1
+humanity	1
+flattered	1
+
+========================================
+【二、口语语气词/叹词】（牛津3000不收录，但日常听力高频）
+========================================
+hmm	15
+uh	14
+mmm	6
+huh	6
+yup	6
+nope	5
+mm	5
+ooh	3
+um	2
+ma'am	2
+hmmm	2
+hum	2
+wowee	1
+atta	1
+umm	1
+gosh	1
+
+第二部分：牛津3000中、剧集未覆盖的词汇
+来源：牛津3000_走遍美国未覆盖词表.txt
+
+# 牛津3000 中《走遍美国》（全26集）未覆盖的单词
+# 共 1572 个（牛津3000共 2968 词元，剧集覆盖 1396 个 / 47.0%）
+# 按 CEFR 等级分组，组内按字母排序
+# 用途：看完全剧后需要另外补学的词汇清单
+
+========================================
+【A1】最基础（入门）　共 164 词
+========================================
+action
+actor
+actress
+add
+amazing
+april
+august
+aunt
+autumn
+ball
+banana
+bathroom
+beer
+beginning
+below
+best
+better
+bike
+bird
+black
+blog
+blonde
+boyfriend
+bread
+brown
+butter
+cafe
+cannot
+capital
+cd
+century
+chart
+cheap
+cinema
+classroom
+climb
+coat
+colour
+compare
+correct
+create
+dancing
+dangerous
+december
+dialogue
+dictionary
+dirty
+dvd
+east
+eighty
+elephant
+email
+euro
+false
+farmer
+fat
+favourite
+february
+festival
+fly
+fourteen
+friendly
+garden
+geography
+girlfriend
+grandparent
+grey
+guitar
+gym
+hate
+hobby
+holiday
+however
+improve
+interested
+interesting
+internet
+january
+juice
+july
+kilometre
+land
+language
+later
+lie
+lion
+map
+march
+message
+metre
+million
+modern
+mountain
+mouth
+mum
+negative
+neighbour
+nineteen
+ninety
+north
+nose
+november
+object
+october
+online
+opposite
+painting
+paragraph
+passport
+pencil
+people
+period
+phrase
+pig
+plant
+practise
+product
+programme
+purple
+quickly
+reader
+reading
+really
+rice
+rich
+routine
+rule
+scientist
+sea
+september
+sheep
+shirt
+shower
+similar
+sing
+singer
+skill
+snake
+song
+soup
+spell
+spelling
+statement
+summer
+swimming
+teenager
+text
+theatre
+thirteen
+thousand
+toilet
+topic
+tourist
+trousers
+uncle
+useful
+video
+visitor
+waiter
+wall
+website
+writer
+writing
+yellow
+
+========================================
+【A2】初级　共 431 词
+========================================
+abroad
+accident
+according
+achieve
+active
+actually
+advantage
+advertisement
+advertising
+airline
+alternative
+although
+among
+ancient
+ankle
+app
+appear
+appearance
+architect
+argument
+arrangement
+assistant
+athlete
+attack
+audience
+author
+award
+awful
+badly
+based
+basketball
+bean
+beef
+behave
+behaviour
+belt
+billion
+bin
+birth
+boil
+bone
+bottom
+bowl
+broken
+businessman
+button
+carefully
+carpet
+cartoon
+castle
+celebrity
+character
+charity
+chat
+chemistry
+chip
+church
+cigarette
+circle
+classical
+clearly
+clever
+climate
+closed
+cloud
+coach
+coast
+code
+colleague
+column
+comedy
+comment
+communicate
+compete
+competition
+connect
+connected
+contain
+context
+continent
+control
+cooker
+corner
+correctly
+creative
+credit
+crime
+criminal
+crowded
+cupboard
+curly
+cycle
+danger
+data
+dead
+definitely
+degree
+dentist
+desert
+destroy
+detective
+device
+differently
+digital
+direct
+director
+disagree
+disappear
+disaster
+discover
+discovery
+disease
+distance
+divorced
+document
+download
+driving
+drug
+earth
+easily
+effect
+electric
+electrical
+electricity
+electronic
+employ
+employee
+employer
+empty
+ending
+engine
+environment
+equipment
+error
+essay
+everyday
+evidence
+exist
+expert
+explanation
+expression
+extreme
+extremely
+factor
+fail
+fan
+farming
+fear
+feature
+female
+fiction
+fight
+firstly
+flu
+flying
+focus
+following
+foreign
+forest
+fork
+formal
+fortunately
+fridge
+frog
+gap
+gas
+gate
+general
+goal
+god
+golf
+government
+greet
+guide
+gun
+habit
+happily
+headache
+heat
+height
+hers
+herself
+hide
+hill
+hockey
+hole
+huge
+human
+identify
+ill
+illness
+image
+impossible
+including
+increase
+individual
+informal
+injury
+insect
+instruction
+instrument
+intelligent
+international
+introduction
+invent
+invention
+invitation
+jam
+jewellery
+kill
+king
+knife
+knock
+knowledge
+lab
+laptop
+laughter
+lazy
+leader
+learning
+least
+lecture
+lemon
+less
+level
+lifestyle
+likely
+listener
+lorry
+lost
+loud
+lovely
+low
+male
+manager
+manner
+mark
+material
+maths
+media
+metal
+method
+mirror
+missing
+mobile
+monkey
+moon
+mostly
+motorcycle
+movement
+musical
+narrow
+national
+nature
+nearly
+neck
+network
+none
+normal
+normally
+novel
+nowhere
+nut
+ocean
+officer
+oil
+onto
+option
+ordinary
+organize
+ourselves
+oven
+painter
+palace
+pants
+parking
+passenger
+pattern
+peace
+penny
+per
+petrol
+physics
+pilot
+planet
+polite
+pollution
+population
+position
+possession
+poster
+predict
+prevent
+printer
+prison
+process
+produce
+professor
+profile
+protect
+provide
+pub
+purpose
+quantity
+queen
+quietly
+railway
+rather
+reach
+react
+recently
+recording
+recycle
+reduce
+refer
+refuse
+region
+repair
+reply
+reporter
+request
+researcher
+respond
+response
+role
+round
+rubbish
+rude
+runner
+running
+sadly
+sail
+sailing
+sauce
+screen
+search
+season
+secondly
+sense
+separate
+series
+shoulder
+shout
+shut
+silver
+singing
+single
+ski
+skiing
+skin
+sky
+slowly
+smartphone
+smoking
+soap
+soccer
+social
+sock
+soft
+soldier
+source
+speaker
+specific
+speech
+speed
+spider
+spoon
+square
+stair
+stamp
+steal
+step
+stone
+storm
+strange
+strategy
+stress
+structure
+stupid
+suddenly
+suit
+surprising
+survey
+symbol
+tablet
+target
+task
+technology
+temperature
+themselves
+thick
+thief
+thin
+thinking
+throw
+tidy
+tip
+tool
+tour
+tourism
+tower
+track
+traditional
+trainer
+transport
+traveller
+truck
+typical
+underground
+understanding
+uniform
+united
+used
+valley
+variety
+vehicle
+virus
+war
+washing
+wave
+weak
+web
+wet
+wheel
+wide
+wild
+winner
+wooden
+working
+worried
+worse
+
+========================================
+【B1】中级　共 498 词
+========================================
+absolutely
+academic
+access
+accommodation
+achievement
+ad
+addition
+admire
+advanced
+advise
+aged
+agreement
+aim
+alarm
+alcohol
+alcoholic
+amazed
+ambition
+ambitious
+analyse
+analysis
+annoy
+annoyed
+annoying
+apart
+application
+approximately
+arrest
+assignment
+assist
+atmosphere
+attitude
+attract
+attraction
+authority
+aware
+backwards
+ban
+base
+basic
+basis
+battery
+battle
+belief
+bend
+bomb
+border
+bother
+brave
+breathing
+bubble
+bury
+campus
+candidate
+cap
+captain
+careless
+category
+celebration
+chain
+challenge
+chapter
+cheat
+cheerful
+chemical
+childhood
+clause
+click
+cloth
+clue
+coal
+coin
+coloured
+combine
+commit
+communication
+comparison
+competitive
+competitor
+complaint
+complex
+concentrate
+conclude
+confirm
+confuse
+confused
+connection
+consequence
+consist
+consume
+consumer
+contact
+container
+content
+continuous
+contrast
+convince
+costume
+cottage
+cotton
+countryside
+court
+covered
+cruel
+currency
+current
+currently
+curtain
+damage
+decade
+define
+definition
+deliver
+departure
+despite
+destination
+determine
+determined
+diagram
+diamond
+difficulty
+directly
+dirt
+disadvantage
+disappointing
+discount
+dislike
+divide
+documentary
+donate
+drunk
+dust
+duty
+earthquake
+eastern
+economic
+economy
+educate
+educated
+educational
+effective
+effectively
+effort
+element
+embarrassed
+embarrassing
+emotion
+employment
+enemy
+engaged
+engineering
+entrance
+entry
+environmental
+equal
+equally
+escape
+essential
+eventually
+examine
+excitement
+expected
+expedition
+experienced
+explode
+explore
+explosion
+export
+fairly
+familiar
+fancy
+fascinating
+fashionable
+fasten
+favour
+fighting
+file
+fitness
+fixed
+flag
+flood
+flow
+force
+forever
+frame
+frequently
+frighten
+frightened
+frightening
+frozen
+fuel
+function
+fur
+generally
+gentle
+ghost
+giant
+global
+goods
+grain
+growth
+guard
+guilty
+headline
+heating
+heavily
+helicopter
+highlight
+highly
+historic
+historical
+honest
+horrible
+horror
+host
+hunt
+hurricane
+identity
+ignore
+illegal
+imaginary
+immediate
+immigrant
+impact
+impression
+improvement
+incredibly
+indicate
+indirect
+indoor
+indoors
+influence
+injure
+injured
+innocent
+intelligence
+intend
+intention
+invest
+investigate
+involved
+iron
+issue
+journal
+keen
+keyboard
+killing
+label
+laboratory
+latest
+layer
+leading
+leaf
+leather
+limit
+lip
+liquid
+literature
+locate
+located
+location
+lonely
+loss
+luxury
+mad
+mainly
+management
+marketing
+meanwhile
+measure
+mental
+mix
+mixture
+mud
+murder
+muscle
+nail
+narrative
+nation
+native
+naturally
+necessarily
+needle
+neighbourhood
+nor
+northern
+nuclear
+obvious
+obviously
+occasion
+occur
+odd
+official
+organized
+organizer
+originally
+ours
+outdoors
+package
+painful
+pale
+pan
+participate
+particularly
+passion
+path
+peaceful
+percentage
+perfectly
+personally
+persuade
+photographer
+pin
+pipe
+plot
+poet
+poetry
+poison
+poisonous
+policy
+political
+politician
+politics
+port
+pot
+poverty
+pray
+prayer
+prediction
+pretend
+previous
+previously
+priest
+primary
+prince
+princess
+printing
+prisoner
+private
+producer
+profession
+profit
+proper
+properly
+protest
+prove
+punish
+punishment
+qualification
+qualified
+qualify
+queue
+quit
+quotation
+quote
+racing
+rarely
+reaction
+reality
+receipt
+recommendation
+reflect
+regularly
+reject
+relate
+related
+relation
+relaxed
+relaxing
+release
+reliable
+religion
+religious
+remain
+remote
+repeated
+resource
+retire
+revise
+risk
+robot
+rope
+royal
+rugby
+safety
+sailor
+sample
+sand
+scan
+scientific
+script
+sculpture
+secondary
+security
+seed
+sensible
+seriously
+servant
+sex
+sexual
+sharp
+shelf
+shell
+shift
+shiny
+shoot
+sight
+signal
+silent
+similarity
+similarly
+sink
+slightly
+smooth
+software
+soil
+solid
+southern
+specifically
+spending
+spicy
+spoken
+spread
+stadium
+standard
+statistic
+statue
+stranger
+strength
+strongly
+studio
+substance
+successfully
+suffer
+suitable
+summarize
+summary
+supply
+supporter
+surely
+surface
+survive
+symptom
+tail
+talented
+technical
+technique
+theirs
+theme
+theory
+therefore
+throughout
+tight
+tin
+toe
+tongue
+totally
+translate
+translation
+treatment
+trend
+trick
+tube
+typically
+tyre
+ugly
+unable
+underwear
+unemployed
+unemployment
+unfair
+union
+unless
+unlike
+unlikely
+unnecessary
+unpleasant
+update
+upon
+value
+version
+victim
+viewer
+violent
+warn
+warning
+waste
+weapon
+weigh
+western
+whenever
+wing
+within
+wool
+worldwide
+written
+yard
+youth
+
+========================================
+【B2】中高级　共 477 词
+========================================
+abandon
+acceptable
+accompany
+accurate
+accuse
+acknowledge
+acquire
+adapt
+administration
+affair
+afterwards
+agenda
+aggressive
+aid
+alter
+anger
+angle
+annual
+apparent
+apparently
+appeal
+approach
+appropriate
+approval
+arise
+armed
+arms
+artificial
+ashamed
+aspect
+assess
+assessment
+associate
+associated
+association
+attempt
+bacteria
+barrier
+basically
+being
+bent
+bitter
+breast
+broad
+broadcast
+bullet
+bunch
+bush
+cable
+calculate
+cancer
+capable
+capacity
+capture
+cast
+cell
+chairman
+characteristic
+chief
+circumstance
+cite
+civil
+classic
+closely
+collapse
+combination
+comfort
+command
+commission
+commitment
+commonly
+component
+concentration
+concern
+conduct
+confidence
+conflict
+confusing
+conscious
+conservative
+consideration
+consistent
+constant
+constantly
+construct
+contemporary
+contribute
+convert
+convinced
+core
+corporate
+county
+courage
+crash
+creation
+creature
+crew
+crisis
+criterion
+critical
+criticism
+criticize
+crop
+crucial
+cure
+curve
+curved
+debate
+debt
+decent
+declare
+decline
+decrease
+deeply
+defeat
+defence
+defend
+deliberate
+deliberately
+delight
+delighted
+delivery
+demand
+demonstrate
+deny
+depressed
+depressing
+depth
+deserve
+desire
+desperate
+detailed
+detect
+dig
+disc
+discipline
+dishonest
+dismiss
+display
+distribute
+distribution
+district
+division
+domestic
+dominate
+downwards
+dozen
+draft
+drag
+dramatic
+edit
+edition
+efficient
+elderly
+elect
+elsewhere
+emerge
+emotional
+emphasis
+emphasize
+enable
+encounter
+engage
+enhance
+enquiry
+ensure
+enthusiasm
+enthusiastic
+entirely
+estimate
+ethical
+evaluate
+evil
+existence
+expectation
+expense
+exploration
+expose
+extend
+extent
+external
+extraordinary
+facility
+failure
+fault
+feather
+feedback
+fellow
+finance
+finding
+flame
+flash
+flexible
+folding
+former
+fortune
+freedom
+frequency
+fully
+fundamental
+funding
+furthermore
+gain
+generate
+genre
+govern
+grab
+gradually
+grant
+harm
+harmful
+heel
+hesitate
+hollow
+honour
+household
+humorous
+humour
+hunting
+illustrate
+illustration
+imagination
+impatient
+imply
+impose
+impressed
+incident
+increasingly
+industrial
+infection
+inform
+initially
+initiative
+inner
+insight
+inspire
+install
+instance
+institute
+institution
+insurance
+intended
+intense
+internal
+interpret
+investigation
+judgement
+justice
+justify
+labour
+landscape
+largely
+launch
+leadership
+league
+lean
+licence
+limited
+lively
+load
+logical
+loose
+lord
+lower
+lung
+maintain
+majority
+mass
+massive
+master
+matching
+maximum
+measurement
+melt
+military
+mineral
+minimum
+minister
+minor
+minority
+mission
+mixed
+modify
+monitor
+moral
+motor
+multiple
+multiply
+mysterious
+nerve
+nevertheless
+nightmare
+notion
+numerous
+obey
+objective
+obligation
+observation
+observe
+obtain
+offence
+offend
+offensive
+operate
+opponent
+oppose
+opposed
+opposition
+organ
+origin
+otherwise
+outcome
+outer
+outline
+overall
+panel
+parliament
+participant
+partly
+passage
+pension
+permit
+perspective
+phase
+phenomenon
+philosophy
+pile
+plain
+pointed
+popularity
+pose
+possess
+potential
+praise
+preparation
+presence
+preserve
+prime
+principle
+priority
+privacy
+procedure
+proof
+prospect
+protection
+psychologist
+psychology
+publication
+pupil
+pure
+rank
+rapid
+rapidly
+realistic
+reasonable
+recall
+reduction
+regional
+register
+regret
+regulation
+relatively
+relevant
+rely
+remark
+representative
+rescue
+resort
+retain
+reveal
+revolution
+reward
+rhythm
+rid
+root
+rubber
+rural
+satellite
+satisfy
+scale
+scheme
+scream
+sector
+secure
+seek
+selection
+sequence
+session
+severe
+shade
+shadow
+shallow
+shame
+shock
+shocked
+shooting
+shot
+significant
+significantly
+silence
+silk
+sincere
+slave
+slide
+slight
+slip
+slope
+solar
+somewhat
+soul
+specialist
+species
+spiritual
+split
+sponsor
+stable
+stare
+status
+steady
+steel
+steep
+sticky
+stiff
+stream
+strict
+strike
+struggle
+submit
+surgery
+surrounding
+suspect
+swear
+sympathy
+tale
+temporary
+therapy
+threat
+threaten
+thus
+transfer
+transition
+trial
+tropical
+truly
+tune
+tunnel
+ultimately
+unconscious
+unexpected
+unique
+unknown
+upper
+upwards
+urban
+urge
+vary
+vast
+venue
+via
+victory
+violence
+virtual
+vision
+visual
+vital
+volume
+wage
+weakness
+wealth
+wealthy
+whereas
+widely
+wildlife
+willing
+wire
+witness
+zone
+
+========================================
+【其他】共 2 词
+========================================
+disk
+inquiry
+
